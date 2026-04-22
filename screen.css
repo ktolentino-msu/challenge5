@@ -9,6 +9,8 @@ body {
     justify-content: center;
     width: 90%;
     max-width: 900px;
+    background-color: #f4f4f4;
+    color: #010101;
 }
 
 img {
